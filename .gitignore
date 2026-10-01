@@ -1,0 +1,9 @@
+# Dependências
+node_modules/
+
+# Variáveis de ambiente e senhas
+.env
+
+# Arquivos gerados pelo sistema operacional
+.DS_Store
+Thumbs.db
